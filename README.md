@@ -1,7 +1,7 @@
 # Olá, eu sou a Patricia 
 <h3>📘Estudante de Análise e Desenvolvimento de Sistemas</h3>
 <div>
-  <a href="https://github.com/PatriciaDamasceno883/Patricia-Damasceno-Geraldo/edit/main/README.md">
+  <a href="https://github.com/PatriciaDamasceno883/Patty/edit/main/README.md">
   <img leight="180cm" src="https://github-readme-stats.vercel.app/api?username=PatriciaDamasceno883&show_icons=true&theme=transparent&include_all_commits=true&count_private-true"/>
 <img leight="180cm" width="400" height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatriciaDamasceno883&layout=compact&langs_count=16&theme=transparent"><br>
     <img width="70" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
